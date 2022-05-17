@@ -1,6 +1,8 @@
 # Fixed mouse
 This cute program installs the mouse pointer of the victim (client*) no more.
 
+[![CodeFactor](https://www.codefactor.io/repository/github/cute-viruses/fixedmouse/badge)](https://www.codefactor.io/repository/github/cute-viruses/fixedmouse)
+
 > Warning: There is no way to stop after booting except by shutting down the device or using the task manager, using the keyboard :)
 
 ![image](./Screenshots/0.1.0-linux.gif)
