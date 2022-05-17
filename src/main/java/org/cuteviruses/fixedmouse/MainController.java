@@ -15,7 +15,8 @@ public class MainController {
             addGlobalMouseListener();
             moveMuseToCenter();
         } catch (AWTException | NativeHookException e) {
-            throw new RuntimeException(e);
+            e.printStackTrace();
+            System.exit(1);
         }
 
     }
